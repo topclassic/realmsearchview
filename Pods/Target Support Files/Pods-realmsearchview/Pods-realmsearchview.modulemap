@@ -1,0 +1,6 @@
+framework module Pods_realmsearchview {
+  umbrella header "Pods-realmsearchview-umbrella.h"
+
+  export *
+  module * { export * }
+}
